@@ -1,0 +1,12 @@
+# Ignorar archivos de datos
+data/
+
+# Ignorar modelos serializados
+models/
+
+# Ignorar entornos virtuales
+venv/
+.env/
+
+# Archivos de Jupyter temporales
+.ipynb_checkpoints/
